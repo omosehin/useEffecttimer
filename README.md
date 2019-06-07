@@ -1,2 +1,0 @@
-# useEffecttimer
-Created with CodeSandbox
